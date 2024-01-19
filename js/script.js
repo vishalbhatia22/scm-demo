@@ -1,120 +1,57 @@
 
 document.getElementById("r0c0").onclick = function () {
-   document.getElementById("me").src="./images/100897257.jpg";
+   alert("W1 Course Intro and FTP Client descriptions");
 }
 
 document.getElementById("r0c1").onclick = function () {
-   document.getElementById("me").src="./images/100899065.jpg";
+   alert("W2 Client Applications descriptions");
 }
 
 document.getElementById("r0c2").onclick = function () {
-   document.getElementById("me").src="./images/100900107.jpg";
+   alert("W3 Source Code Management (SCM) descriptions");
 }
 
 document.getElementById("r0c3").onclick = function () {
-   document.getElementById("me").src="./images/100899476.jpg";
+   alert("W4 Service Providers over the Internet descriptions");
 }
 
 document.getElementById("r0c4").onclick = function () {
-   document.getElementById("me").src="./images/100907740.jpg";
-}
-
-document.getElementById("r0c5").onclick = function () {
-   document.getElementById("me").src="./images/100790823.jpg";
-}
-
-document.getElementById("r0c6").onclick = function () {
-   document.getElementById("me").src="./images/100604120.jpg";
-}
-
-document.getElementById("r0c7").onclick = function () {
-   document.getElementById("me").src="./images/100902301.jpg";
-}
-
-document.getElementById("r0c8").onclick = function () {
-   document.getElementById("me").src="./images/100892802.jpg";
-}
-
-document.getElementById("r0c9").onclick = function () {
-   document.getElementById("me").src="./images/100886918.jpg";
+   alert("W5 Web Protocols descriptions");
 }
 
 document.getElementById("r1c0").onclick = function () {
-   document.getElementById("me").src="./images/100908704.jpg";
+   alert("W6 Development Practices and Tools descriptions");
 }
 
 document.getElementById("r1c1").onclick = function () {
-   document.getElementById("me").src="./images/100864595.jpg";
+   alert("W7 Web Publishing descriptions");
 }
 
 document.getElementById("r1c2").onclick = function () {
-   document.getElementById("me").src="./images/100875859.jpg";
+   alert("W8 Web Medias descriptions");
 }
 
 document.getElementById("r1c3").onclick = function () {
-   document.getElementById("me").src="./images/100891274.jpg";
+   alert("W9 Computer Languages descriptions");
 }
 
 document.getElementById("r1c4").onclick = function () {
-   document.getElementById("me").src="./images/100837128.jpg";
+   alert("W10 Language Ext. - Snippet, Lib. and FW descriptions");
 }
 
-document.getElementById("r1c5").onclick = function () {
-   document.getElementById("me").src="./images/100907733.jpg";
-}
-
-document.getElementById("r1c6").onclick = function () {
-   document.getElementById("me").src="./images/100897855.jpg";
-}
-
-document.getElementById("r1c7").onclick = function () {
-   document.getElementById("me").src="./images/100895530.jpg";
-}
-
-document.getElementById("r1c8").onclick = function () {
-   document.getElementById("me").src="./images/100897746.jpg";
-}
-
-document.getElementById("r1c9").onclick = function () {
-   document.getElementById("me").src="./images/100921112.jpg";
-}
 
 document.getElementById("r2c0").onclick = function () {
-   document.getElementById("me").src="./images/100566530.jpg";
+   alert("W11 Collaborative Development descriptions");
 }
 
 document.getElementById("r2c1").onclick = function () {
-   document.getElementById("me").src="./images/100900073.jpg";
+   alert("W12 Web File Exchanges descriptions");
 }
 
 document.getElementById("r2c2").onclick = function () {
-   document.getElementById("me").src="./images/100868754.jpg";
+   alert("W13 File Exchanges: AJAX/XHR and JSON descriptions");
 }
 
 document.getElementById("r2c3").onclick = function () {
-   document.getElementById("me").src="./images/100856452.jpg";
-}
-
-document.getElementById("r2c4").onclick = function () {
-   document.getElementById("me").src="./images/100903417.jpg";
-}
-
-document.getElementById("r2c5").onclick = function () {
-   document.getElementById("me").src="./images/100893367.jpg";
-}
-
-document.getElementById("r2c6").onclick = function () {
-   document.getElementById("me").src="./images/100890502.jpg";
-}
-
-document.getElementById("r2c7").onclick = function () {
-   document.getElementById("me").src="./images/100890567.jpg";
-}
-
-document.getElementById("r2c8").onclick = function () {
-   document.getElementById("me").src="./images/100815108.jpg";
-}
-
-document.getElementById("r2c9").onclick = function () {
-   document.getElementById("me").src="./images/.jpg";
+   alert("W14 Final Test descriptions");
 }
